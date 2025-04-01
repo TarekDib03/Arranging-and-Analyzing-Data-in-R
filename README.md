@@ -1,4 +1,4 @@
-# Arranging and Analyzing Data in R
+# Arranging and Visualizing Data in R
 
 This is the first course of the Data Science for Health Research Specialization offered by the University of Michigan through the Coursera platform. In this repository, I will present two main products: recreating the Global Findex Indicator Table, 2017, developed by the World Bank, and a plot of the accounts per income category. The two products in this repository were developed using the tidyverse library. Tidyverse is used to cleanse, manipulate, and transform data. Various functionalities were used:
 
